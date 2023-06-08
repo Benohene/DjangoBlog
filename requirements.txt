@@ -43,7 +43,6 @@ pure-eval==0.2.2
 pycodestyle==2.10.0
 Pygments==2.15.1
 python-dateutil==2.8.2
-pypiwin32==223
 pywin32==306
 pyzmq==25.0.2
 requests==2.31.0
