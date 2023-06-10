@@ -1,4 +1,4 @@
-![Live Preview](https://blog-ben-2023.herokuapp.com/)
+[Live Preview](https://blog-ben-2023.herokuapp.com/)
 
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
